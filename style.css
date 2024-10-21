@@ -1,0 +1,80 @@
+
+
+.top{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h1{
+    padding-top: 20px;
+    
+    
+}
+h4{
+    display: inline-block;
+    color: grey;
+    padding-bottom: 20px;
+    
+    
+}
+
+.box{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+    
+
+}
+.products{
+    padding-top: 50px;
+
+}
+input{
+    background-color: black;
+    color: white;
+}
+input:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+.products{
+    text-align: center;
+   
+
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.id{
+    background-color: white;
+    color: black;
+}
+.contact{
+    text-align: center;
+}
+name{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    display: inline-block;
+}
+.sent{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    width: 40%;
+    
+}
+h4:hover{
+    cursor: pointer;
+    color: white;
+}
